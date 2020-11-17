@@ -1,5 +1,7 @@
 # codesandbox-dot-io-practice
 
+## [Want to see the app in action? Click here!](https://0k8fe.csb.app/)
+
 ## Wondering why this repo exists?
 
 How can I put this... CodeSandbox.io is awesome!
