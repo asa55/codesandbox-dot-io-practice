@@ -1,8 +1,8 @@
 {
-  "name": "react",
+  "name": "asa55-react-sandbox",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": ["react", "starter"],
+  "description": "A sandbox that exists solely for me to play with React. To be completely honest, this provides the most comfortable developer experience compared to any local environment I've used in the past.",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "react": "17.0.0",
@@ -18,5 +18,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
